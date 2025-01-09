@@ -1,7 +1,9 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
   
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Eduardo+Rezende+;I+study+analysis+and+systems+development+at+MarthaFalcão;Be+Welcome!+:%29)](https://git.io/typing-svg) 
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&center=true&vCenter=true&weight=600&pause=1000&background=FF452300&width=1000&lines=Hello%2C+my+name+is+Eduardo+Rezende.;Student+of+Systems+Analysis+and+Development.;Welcome!+%F0%9F%98%83)](https://git.io/typing-svg)
+
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=EduardoRez3nde&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt=" Eduardo Rezende github stats"/> 
